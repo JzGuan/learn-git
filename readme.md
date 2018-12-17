@@ -3,4 +3,4 @@
 
 new branch dev
 
-I'm developing on dev , as a bug comming suddenly...
+I'm developing on dev , as a bug comming suddenly
